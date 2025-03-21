@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/mrpra/OneDrive/Desktop/Verilog Projects/Memory_imple
+vmemory
+Z1 !s110 1741782286
+!i10b 1
+!s100 _LN5cQM]>Vj5RZdjiDBM42
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ITLokz0[3TdEPPXk@<C8G]2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1741687674
+8memory.v
+Fmemory.v
+!i122 3
+L0 3 35
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1741782286.000000
+!s107 memory.v|mem_tb.v|
+Z6 !s90 -reportprogress|300|mem_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtop
+R1
+!i10b 1
+!s100 Vl8:R?h7ndn?CaZ5TP0T11
+R2
+I5IFG;WS02?d9U4caR:YH82
+R3
+R0
+w1741782261
+8mem_tb.v
+Fmem_tb.v
+!i122 3
+L0 5 147
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 memory.v|mem_tb.v|
+R6
+!i113 1
+R7
