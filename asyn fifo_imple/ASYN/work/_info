@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/mrpra/OneDrive/Desktop/Verilog Projects/asyn fifo_imple/ASYN
+vasyn_fifo
+Z1 !s110 1743234820
+!i10b 1
+!s100 ^b3[FfV6KUb36AJ[Y1UIh0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IkjZc2AXgd=OX2fZGPnQjm1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1743233512
+8asyn_fifo.v
+Fasyn_fifo.v
+!i122 2
+L0 1 74
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1743234820.000000
+!s107 asyn_fifo.v|asyn_fifo_tb.v|
+Z6 !s90 -reportprogress|300|asyn_fifo_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vtb
+R1
+!i10b 1
+!s100 2o^CX?HAUY;S2XjdmaYhj3
+R2
+IZJGbISo];fhlQfN[;zCoQ3
+R3
+R0
+w1743227696
+8asyn_fifo_tb.v
+Fasyn_fifo_tb.v
+!i122 2
+L0 2 103
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 asyn_fifo.v|asyn_fifo_tb.v|
+R6
+!i113 1
+R7
